@@ -1,6 +1,5 @@
 # USLN
 USLN: A statistically guided lightweight network for underwater image enhancement via dual-statistic white balance and multi-color space stretch
-Implementation: PyTorch
 
 ## overview
 <div align=center><img src="imgs/overview.png"></div>
