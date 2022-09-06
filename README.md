@@ -10,6 +10,9 @@ Extensive experiments show that USLN significantly reduces the required network 
 <div align=center><img src="imgs/table2.png"></div>
 <div align=center><img src="imgs/table1.png"></div>
 
+## Requirement
+python 3.9, pytorch 1.10.1 
+
 ## Train and Test
 if you want to train the model:\
 1, put your datasets into corresponding folders ("images_train", "labels_train", "images_val", "labels_val")\
@@ -20,6 +23,8 @@ if you want to test the model:\
 1, put your datasets into "images_test"\
 2, run test.py (load model checkpoints from "logs" first)\
 3, the result will be saved in "pred"
+
+## Bibtex
 
 ## License
 The code is made available for academic research purpose only. This project is open sourced under MIT license.
