@@ -25,7 +25,18 @@ if you want to test the model:\
 3, the result will be saved in "pred"
 
 ## Bibtex
-
+```
+@misc{USLN,
+  doi = {10.48550/ARXIV.2209.02221},
+  url = {https://arxiv.org/abs/2209.02221}, 
+  author = {Xiao, Ziyuan and Han, Yina and Rahardja, Susanto and Ma, Yuanliang},
+  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS:   Computer and information sciences},
+  title = {USLN: A statistically guided lightweight network for underwater image enhancement via dual-statistic white balance and multi-color space stretch},
+  publisher = {arXiv},
+  year = {2022}, 
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
+```
 ## License
 The code is made available for academic research purpose only. This project is open sourced under MIT license.
 
